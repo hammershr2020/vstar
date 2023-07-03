@@ -1,6 +1,6 @@
 import pandas as pd
 import app
-
+# 222
 # 初期設定
 g_values = ""
 g_sa = ""
